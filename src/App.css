@@ -147,7 +147,7 @@ h1 {
 }
 
 .form__container {
-  display: none;
+  /*display: none;*/
   position: fixed;
   top:60px;
   animation-duration: 500ms;
@@ -206,7 +206,7 @@ input {
   top:60px;
 }
 
-i {
+.i {
   font-size: 32px;
   margin: 5px 20px;
 }
